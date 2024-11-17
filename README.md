@@ -20,6 +20,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40" style="margin: 0 10px;"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Linux" width="40" height="40" style="margin: 0 10px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40" style="margin: 0 10px;"/>
+  
+
 </p>
 <br>
 
@@ -43,3 +45,5 @@
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9074ed&height=120&section=footer"/>
+
+<!-- <img src="https://media1.tenor.com/m/iRkL6OMGhU4AAAAd/alarm.gif" align="right"> --!>
